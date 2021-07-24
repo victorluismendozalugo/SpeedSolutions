@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 <servidores>
-  <servidor1  TagName="" Nombre="SQLSERVER" Usuario="" DataBase="SpeedSolutions" Password=""  /> 
+  <servidor1 TagName="nombre de tu servidor" Nombre="SQLSERVER" Usuario="tu usuario" DataBase="SpeedSolutions" Password="tu password"  /> 
 </servidores> 
